@@ -21,7 +21,9 @@ blockquote {
 body {
 	font-family: "Georgia";
 	color: #009097;
-	background-image:url(" http://www.cs.washington.edu/education/courses/190m/09sp/labs/2‐journal/images/background.gif");
+	background-image:url(3.jpg);
+	background-repeat: repeat-x;
+
 }
 
 
