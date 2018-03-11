@@ -21,8 +21,8 @@ blockquote {
 body {
 	font-family: "Georgia";
 	color: #009097;
-	background-image:url(3.jpg);
-	background-repeat: repeat-x;
+	background-image:url("images/background.gif");
+	
 
 }
 
